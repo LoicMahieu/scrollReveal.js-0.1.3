@@ -1,4 +1,6 @@
 #scrollReveal.js
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/LoicMahieu/scrollReveal.js-0.1.3.svg)](https://greenkeeper.io/)
 A simple way to create and maintain how elements fade in, triggered when they enter the viewport. An open-source experiment from [@JulianLloyd](https://twitter.com/julianlloyd).
 
 [![scrollReveal version](https://badge.fury.io/gh/julianlloyd%2FscrollReveal.js.png)](http://badge.fury.io/gh/julianlloyd%2FscrollReveal.js)
